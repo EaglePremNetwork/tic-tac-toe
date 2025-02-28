@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Snapshots
+tic-tac-toe-1.jpg
+tic-tac-toe-2.jpg
+tic-tac-toe-3.jpg
